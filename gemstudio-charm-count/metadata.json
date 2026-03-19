@@ -1,0 +1,7 @@
+{
+  "name": "GemStudio Charm Count",
+  "description": "Elegant AI-powered charm counting dashboard with real-time inventory tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
